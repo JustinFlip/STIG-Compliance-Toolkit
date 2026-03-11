@@ -4,8 +4,6 @@ Hi there 👋
 
 Welcome to my collection of **PowerShell remediation scripts** for automating DISA STIG (Security Technical Implementation Guide) compliance on Windows 11 Pro 25H2 systems.
 
-I'm **Justin Flip**, an experienced security professional specializing in endpoint security, cloud infrastructure (Azure/Intune), PowerShell automation, and SIEM analysis. These scripts represent practical security hardening solutions developed for real-world vulnerability management and compliance scenarios.
-
 ---
 
 ## 🎯 What Are STIGs?
